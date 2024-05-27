@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package arrays.hashing;
+
 import java.util.HashMap;
 
 public class ValidAnagram {
